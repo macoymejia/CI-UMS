@@ -10,3 +10,5 @@
 */cache/*
 */cache/!index.html
 */cache/!.htaccess
+
+*assets/media/!index.html
