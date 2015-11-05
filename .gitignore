@@ -1,3 +1,9 @@
+
+
+*/config/ums_config.php
+*/config/config.php
+*/config/database.php
+
 */config/development
 */logs/log-*.php
 */logs/!index.html
