@@ -1,10 +1,11 @@
-*/config/development
+*/ci_application/config/database.php
+*/ci_application/config/config.php
+*/ci_application/config/ums_config.php
 */logs/log-*.php
 */logs/!index.html
 */cache/*
-*/cache/!index.html
 */data/*
 */data/!index.html
 */assets/*
-*/assets/!index.html
+*/assets/index.php
 */assets/!.htaccess
