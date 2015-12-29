@@ -3,4 +3,8 @@
 */logs/!index.html
 */cache/*
 */cache/!index.html
-*/cache/!.htaccess
+*/data/*
+*/data/!index.html
+*/assets/*
+*/assets/!index.html
+*/assets/!.htaccess
